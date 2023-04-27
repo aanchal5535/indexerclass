@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\try..catch..finally.exe
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\try..catch..finally.deps.json
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\try..catch..finally.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\try..catch..finally.dll
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\try..catch..finally.pdb
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.dll
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\try..catch..finally.dll
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.pdb
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\try..catch..finally.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\try..catch..finally.dll
